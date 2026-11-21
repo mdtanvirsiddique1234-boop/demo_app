@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809906228453",
+    "project_id": "pushti-bondhu",
+    "storage_bucket": "pushti-bondhu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809906228453:android:3b98f236c0637cb6c4d80c",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDodUsJdl3uW41u18AkRHvvtvlB_e9d5S0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
